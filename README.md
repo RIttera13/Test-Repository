@@ -1,3 +1,5 @@
 # Test-Repository
 Test public repository
-Here are the changes.
+
+Adding changes to merge into master.
+
